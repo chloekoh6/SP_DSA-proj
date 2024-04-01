@@ -1,0 +1,84 @@
+Alex Kong  
+3.8
+G D R
+0 0 0 
+Alex  
+3.7
+S C R
+0 1 0
+Asharf  
+4.0
+S C T
+0 1 0
+Toeh Sam  
+2.1
+C D G
+1 0 1
+John Lim  
+3.0
+R S G
+1 0 0 
+Iffah  
+3.4
+C D T
+0 0 0
+Joey Tan  
+2.7
+G T D
+1 0 0
+Carol Sim  
+3.5
+G D R
+1 0 0 
+Amy Yeo  
+3.8
+D S T
+1 0 0
+Brenda Tang  
+3.6
+D S G
+0 1 0
+Jing Yi  
+2.4
+D R S
+1 0 0
+Bay Jasmine  
+3.0
+G C S
+0 0 0
+Yap Yufan  
+1.9
+C D T
+0 0 1
+Jacob Ho  
+4.0
+G R S
+0 1 0
+Chan Choi  
+3.5
+D T G
+0 1 1
+Chris Tan  
+2.5
+S T R
+1 0 1
+Dillon   
+3.1
+R D G
+0 0 0
+Emily Low  
+2.3
+T C R
+1 0 0
+Joe   
+3.5
+G R T
+0 0 0
+Jan  
+3.3
+S D T
+1 0 0
+Tom   
+3.6
+G R T
+0 0 0
